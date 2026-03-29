@@ -24,4 +24,5 @@ Gerei 3 materiais:
 <img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/5c237e6f-2eaa-44a0-8ba1-e765af2ae6ed" />
 
 # Mapa Mental
-<img width="1536" height="1137" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/a106bf50-c863-449c-bd31-76aefee784a2" />
+
+<img width="3415" height="7137" alt="NotebookLM Mind Map (2)" src="https://github.com/user-attachments/assets/b0918356-a5fc-4af4-93ab-e0dccd4fcabe" />
